@@ -1,0 +1,45 @@
+html{
+    background-color: #777;
+    text-align: center;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: #ffff00;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 30px;
+    margin: 10px;
+    color: #ffff00;
+}
+a:hover{
+    color: rgba(255, 255, 0, 0.486);
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(27, 6, 6);
+    color: #ffff00;
+    padding: 50px;
+    border-radius: 20px;
+    border: 5px solid rgba(255, 255, 0, 0.631);
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
