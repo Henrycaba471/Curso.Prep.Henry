@@ -60,7 +60,6 @@ Nos podemos dar cuenta que algo es un statement, porque si lo *pegamos* en la co
     // expresiones!
     console.log(1 + 1);
     console.log(Math.pow(2,3) + 22);
-    
     // statements
     console.log(if( true) {
       // código
