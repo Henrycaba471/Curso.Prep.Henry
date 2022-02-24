@@ -252,7 +252,6 @@ function continueStatement(numero) {
   let array = [];
   let suma = numero;
   for (let i = 0; i < 10; i++) {
-    const element = array[i];
     if (i === 5) {
       continue;
     } else {
